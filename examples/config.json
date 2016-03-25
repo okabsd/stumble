@@ -1,0 +1,21 @@
+{
+  "operator": "!",
+  "mumble": {
+    "server": "127.0.0.1",
+    "host": 64738,
+    "username": "StumbleBot",
+    "password": ""
+  },
+  "extensions": {
+    "system": {},
+    "io": {},
+    "audio": {
+      "gain": 0.5
+    },
+    "audioplayer": {
+      "usequeue": true,
+      "maxqueue": 5,
+      "autoplay": true
+    }
+  }
+}
