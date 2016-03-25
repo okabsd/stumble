@@ -9,6 +9,9 @@
   "extensions": {
     "system": {},
     "io": {},
+    "movement": {
+      "afk": "AFK Channel"
+    },
     "audio": {
       "gain": 0.5
     },

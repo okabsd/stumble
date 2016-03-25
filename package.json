@@ -16,6 +16,10 @@
     "url": "https://github.com/Okahyphen/stumble/issues"
   },
   "homepage": "https://github.com/Okahyphen/stumble#readme",
+  "engines": {
+    "node": ">=5.0.0",
+    "npm": ">=3.0.0"
+  },
   "dependencies": {
     "cheerio": "^0.20.0",
     "fluent-ffmpeg": "^2.0.1",
