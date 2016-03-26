@@ -7,18 +7,29 @@
     "password": ""
   },
   "extensions": {
-    "system": {},
-    "io": {},
-    "movement": {
-      "afk": "AFK Channel"
-    },
     "audio": {
       "gain": 0.5
     },
     "audioplayer": {
-      "operator": "",
+      "operator": "@",
+      "directory": "",
       "maxqueue": 5,
       "autoplay": true
-    }
+    },
+    "database": {
+      "location": ""
+    },
+
+    "info": true,
+    "io": true,
+    "log": true,
+    "movement": {
+      "afk": "AFK Channel"
+    },
+    "parser": true,
+    "system": true,
+    "time": true,
+    "usersystem": true,
+    "util": true
   }
 }
