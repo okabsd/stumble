@@ -8,18 +8,20 @@
   },
   "extensions": {
     "audio": {
-      "gain": 0.5
+      "gain": 0.5,
+      "directory": "",
     },
     "audioplayer": {
       "operator": "@",
-      "directory": "",
       "maxqueue": 5,
       "autoplay": true
+    },
+    "audiostream": {
+      "maxsize": 2000000
     },
     "database": {
       "location": ""
     },
-
     "info": true,
     "io": true,
     "log": true,
