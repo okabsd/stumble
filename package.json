@@ -24,6 +24,8 @@
     "cheerio": "^0.20.0",
     "file-type": "^3.8.0",
     "fluent-ffmpeg": "^2.0.1",
-    "mumble": "^0.3.9"
+    "mumble": "^0.3.9",
+    "request": "^2.69.0",
+    "sqlite3": "^3.1.2"
   }
 }
