@@ -14,7 +14,8 @@
     "audioplayer": {
       "operator": "@",
       "maxqueue": 5,
-      "autoplay": true
+      "autoplay": true,
+      "delay": 300
     },
     "audiostream": {
       "maxsize": 2000000
