@@ -27,7 +27,8 @@
     "io": true,
     "log": true,
     "movement": {
-      "afk": "AFK Channel"
+      "afk": "AFK Channel",
+      "home": "Bot Channel"
     },
     "parser": true,
     "system": true,
