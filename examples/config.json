@@ -34,6 +34,9 @@
     "system": true,
     "time": true,
     "usersystem": true,
-    "util": true
+    "util": true,
+    "permissions": {
+      "maxlevel": 100
+    }
   }
 }
