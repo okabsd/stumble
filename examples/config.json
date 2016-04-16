@@ -24,7 +24,9 @@
       "location": ""
     },
     "info": true,
-    "io": true,
+    "io": {
+      "operator": "#"
+    },
     "log": true,
     "movement": {
       "afk": "AFK Channel",
@@ -36,7 +38,9 @@
     "usersystem": true,
     "util": true,
     "permissions": {
-      "maxlevel": 100
+      "maxlevel": 100,
+      "superuser": "Alice",
+      "warningtime": 30000
     }
   }
 }
