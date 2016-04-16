@@ -4,6 +4,8 @@
 
 [![NPM version][npm-image]][npm-url] [![Downloads][npm-downloads]][npm-url]
 
+![logo](http://oka.io/images/stumble.png)
+
 Stumble is a [Mumble][mumble] bot.
 
 Stumble is built around the concept of _extensions_, allowing it to be extended to create just about any kind of bot.
