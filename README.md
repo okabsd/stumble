@@ -2,7 +2,10 @@
 
 **A fully extensible robotic friend, for Mumble.**
 
-[![NPM version][npm-image]][npm-url] [![Downloads][npm-downloads]][npm-url]
+[![NPM version][npm-image]][npm-url]
+[![License][mit-image]][license]
+[![Downloads][npm-downloads]][npm-url]
+
 
 ![logo](http://oka.io/images/stumble.png)
 
@@ -23,7 +26,7 @@ To simply install Stumble as an application, take a look at [`stumble-cli`][cli]
 If you plan on writing your own extensions, you should install it in your project, and then go check out the [API][api], and the documentation for [`stumble-core`][stumble-core].
 
 ```shell
-$ npm install stumble (--no-optional) (--save-dev)
+$ npm install stumble (--no-optional)
 ```
 
 `--no-optional` will skip on installing Standard Extension Library dependencies.
@@ -36,17 +39,13 @@ If you've found a bug, please raise an [issue][issues] about it.
 
 If you want to help out with development, go ahead and fork the [repository][repo].
 
-## License
-
-Stumble is [licensed][license] as [MIT][mit].
-
 ---
 
 Enjoy!
 
-Colin 'Oka' Hall-Coates
+[oka.io](http://oka.io/)
 
-[oka.io](http://oka.io/) | [@Okahyphen](https://twitter.com/Okahyphen)
+
 
 [repo]: https://github.com/Okahyphen/stumble
 [cli]: https://github.com/Okahyphen/stumble-cli
@@ -63,7 +62,7 @@ Colin 'Oka' Hall-Coates
 [license]: https://raw.githubusercontent.com/Okahyphen/stumble/master/LICENSE
 
 [mumble]: http://wiki.mumble.info/wiki/Main_Page
-[mit]: http://opensource.org/licenses/MIT
+[mit-image]: https://img.shields.io/badge/license-MIT-blue.svg
 
 [npm-url]: https://www.npmjs.com/package/stumble
 [npm-image]: http://img.shields.io/npm/v/stumble.svg
