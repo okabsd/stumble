@@ -2,7 +2,7 @@
   "operator": "!",
   "mumble": {
     "server": "127.0.0.1",
-    "host": 64738,
+    "port": 64738,
     "username": "StumbleBot",
     "password": ""
   },
@@ -27,7 +27,9 @@
     "io": {
       "operator": "#"
     },
-    "log": true,
+    "log": {
+      "directory": ""
+    },
     "movement": {
       "afk": "AFK Channel",
       "home": "Bot Channel"
