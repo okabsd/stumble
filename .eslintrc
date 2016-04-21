@@ -128,7 +128,7 @@
     "no-path-concat": 1,
     "no-process-exit": 1,
     "no-restricted-modules": [1, ""],
-    "no-sync": 1,
+    "no-sync": 0,
 
     "array-bracket-spacing": [1, "never"],
     "brace-style": [1, "1tbs", { "allowSingleLine": true }],
