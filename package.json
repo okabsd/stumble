@@ -1,6 +1,6 @@
 {
   "name": "stumble",
-  "version": "0.0.2",
+  "version": "1.0.0",
   "description": "Stumble.",
   "main": "lib/Stumble",
   "scripts": {
