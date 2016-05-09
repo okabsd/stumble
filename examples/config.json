@@ -32,6 +32,9 @@
     "log": {
       "directory": ""
     },
+    "messenger": {
+      "textmessagelength": 5000
+    }
     "movement": {
       "afk": "AFK Channel",
       "home": "Bot Channel"
