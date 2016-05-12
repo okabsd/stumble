@@ -30,5 +30,8 @@
     "fluent-ffmpeg": "^2.0.1",
     "request": "^2.69.0",
     "sqlite3": "^3.1.2"
-  }
+  },
+  "files": [
+    "lib/"
+  ]
 }
